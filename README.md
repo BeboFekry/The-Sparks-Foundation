@@ -4,8 +4,8 @@ The Sparks Foundation Internship Tasks
 
 Table of Contents:
 
-Task1: Prediction using Supervised Learning (Linear Regression)
+  Task1: Prediction using Supervised Learning (Linear Regression)
 
-Task2: Prediction using Unsupervised Learning (KMeans)
+  Task2: Prediction using Unsupervised Learning (KMeans)
 
-Task6: Prediction using Decision Tree Algorithm
+  Task6: Prediction using Decision Tree Algorithm
